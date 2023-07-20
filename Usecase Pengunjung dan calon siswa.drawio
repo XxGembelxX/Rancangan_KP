@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T12:27:45.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86" version="21.6.3" etag="3Ee0zYE289QCByEvuS5t" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T12:37:34.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86" etag="iT_MDsq21YUqdy8C4XIb" version="21.6.3" type="github">
   <diagram name="Halaman-1" id="4W2LeknAuTOV8Bat-6C-">
-    <mxGraphModel>
+    <mxGraphModel dx="847" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VLdKGI5kS9LnQtgC-ivy-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="200" width="260" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VLdKGI5kS9LnQtgC-ivy-1" value="Pengunjung dan calon siswa" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="910" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VLdKGI5kS9LnQtgC-ivy-2" value="UC-6&lt;br&gt;Melihat informasi PPDB" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VLdKGI5kS9LnQtgC-ivy-3" value="UC-7&lt;br&gt;Melakukan Pendafratan" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VLdKGI5kS9LnQtgC-ivy-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VLdKGI5kS9LnQtgC-ivy-1" target="VLdKGI5kS9LnQtgC-ivy-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="560" as="sourcePoint" />
+            <mxPoint x="960" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLdKGI5kS9LnQtgC-ivy-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VLdKGI5kS9LnQtgC-ivy-1" target="VLdKGI5kS9LnQtgC-ivy-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="520" as="sourcePoint" />
+            <mxPoint x="1040" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
