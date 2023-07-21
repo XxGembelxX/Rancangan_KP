@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T15:32:22.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86" etag="WBfdkd5CjuBA3lX2_OUY" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T15:32:55.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86" etag="32fD8M-QcVYgoPkvSAJR" version="21.6.5" type="github">
   <diagram name="Halaman-1" id="-97yw2wkRq0q6jk886xI">
-    <mxGraphModel dx="4045" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3218" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CEY7hL-I3OigA7_ihmyC-18" value="users" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-880" y="40" width="180" height="180" as="geometry">
+          <mxGeometry x="-740" y="80" width="180" height="180" as="geometry">
             <mxRectangle x="80" y="20" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CEY7hL-I3OigA7_ihmyC-54" value="Siswas" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="10" width="180" height="1080" as="geometry">
+          <mxGeometry x="-500" y="80" width="180" height="1080" as="geometry">
             <mxRectangle x="80" y="20" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -546,7 +546,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0jTUHeZ85An4QtkaP77h-1" value="status_kelas" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="150" width="180" height="90" as="geometry">
+          <mxGeometry x="-260" y="220" width="180" height="90" as="geometry">
             <mxRectangle x="80" y="20" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -577,7 +577,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0jTUHeZ85An4QtkaP77h-17" value="Kelas" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="10" width="180" height="120" as="geometry">
+          <mxGeometry x="-260" y="80" width="180" height="120" as="geometry">
             <mxRectangle x="80" y="20" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
