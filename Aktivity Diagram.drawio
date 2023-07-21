@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T04:37:19.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86" etag="Bg2kfbT2nxM8qPoS8zLY" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T04:38:02.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86" etag="VxqlW1PcAbbg18FINVBm" version="21.6.3" type="github">
   <diagram name="Halaman-1" id="pGlt9sQBTPmMqpuyP7cL">
     <mxGraphModel dx="1969" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,11 @@
         <mxCell id="QSW9ihO3JUug-gnyEK0g-1" value="Aktor" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="200" height="940" as="geometry" />
         </mxCell>
+        <mxCell id="QSW9ihO3JUug-gnyEK0g-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QSW9ihO3JUug-gnyEK0g-1" source="QSW9ihO3JUug-gnyEK0g-2" target="QSW9ihO3JUug-gnyEK0g-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QSW9ihO3JUug-gnyEK0g-2" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="QSW9ihO3JUug-gnyEK0g-1">
-          <mxGeometry x="85" y="60" width="30" height="30" as="geometry" />
+          <mxGeometry x="80" y="60" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QSW9ihO3JUug-gnyEK0g-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Membuka Halaman Website&lt;/font&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="QSW9ihO3JUug-gnyEK0g-1">
           <mxGeometry x="20" y="130" width="150" height="30" as="geometry" />
