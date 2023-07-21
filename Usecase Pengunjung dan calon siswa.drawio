@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T03:24:02.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86" etag="siA0NVTp1vCuidzvNwhG" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-21T03:28:27.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86" etag="IVUJhTo8TbYexQCMw0UM" version="21.6.3" type="github">
   <diagram name="Halaman-1" id="4W2LeknAuTOV8Bat-6C-">
     <mxGraphModel dx="847" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VLdKGI5kS9LnQtgC-ivy-9" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="170" width="260" height="390" as="geometry" />
+          <mxGeometry x="1020" y="180" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="VLdKGI5kS9LnQtgC-ivy-3" value="UC-8&lt;br&gt;Melakukan Pendafratan" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="VLdKGI5kS9LnQtgC-ivy-9" vertex="1">
-          <mxGeometry x="90" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="VLdKGI5kS9LnQtgC-ivy-3" value="UC-9&lt;br&gt;Melakukan Pendafratan" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="VLdKGI5kS9LnQtgC-ivy-9" vertex="1">
+          <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fPl60cg4LCS6Sn3aeja--1" value="UC-9&lt;br&gt;Mencetak Formulir Pendaftaran" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="VLdKGI5kS9LnQtgC-ivy-9">
-          <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="fPl60cg4LCS6Sn3aeja--1" value="UC-10&lt;br&gt;Mencetak Formulir Pendaftaran" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="VLdKGI5kS9LnQtgC-ivy-9">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fPl60cg4LCS6Sn3aeja--2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VLdKGI5kS9LnQtgC-ivy-9" source="VLdKGI5kS9LnQtgC-ivy-3" target="fPl60cg4LCS6Sn3aeja--1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -19,8 +19,8 @@
             <mxPoint x="70" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VLdKGI5kS9LnQtgC-ivy-2" value="UC-7&lt;br&gt;Melihat informasi PPDB" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="VLdKGI5kS9LnQtgC-ivy-9" vertex="1">
-          <mxGeometry x="90" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="VLdKGI5kS9LnQtgC-ivy-2" value="UC-8&lt;br&gt;Melihat informasi PPDB" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="VLdKGI5kS9LnQtgC-ivy-9" vertex="1">
+          <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VLdKGI5kS9LnQtgC-ivy-1" value="Pengunjung dan calon siswa" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="910" y="320" width="30" height="60" as="geometry" />
