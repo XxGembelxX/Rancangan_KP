@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T14:37:53.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="yA4xTpe9mlcCGSRzHStE" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T16:21:44.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="q9BYrt06qRaxTwTd92WR" version="21.6.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="797" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-18" value="Memeriksa Kesesuaian Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
-          <mxGeometry x="20" y="560" width="175" height="30" as="geometry" />
+          <mxGeometry x="22.5" y="560" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-13" source="cC13-fIKpiWIBRgdsOLP-26" target="cC13-fIKpiWIBRgdsOLP-30">
           <mxGeometry relative="1" as="geometry" />
