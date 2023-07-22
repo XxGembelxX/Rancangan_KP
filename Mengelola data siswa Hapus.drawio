@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T14:06:09.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="V4ekwTCDGvqhMTXwwNb6" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T14:07:27.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="E3akMoZVKQaO0txX-1mm" version="21.6.5" type="github">
   <diagram name="Halaman-1" id="ZFOqgwM3fYQp9kRPt5OD">
-    <mxGraphModel dx="1154" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,20 +49,13 @@
           <mxGeometry x="130" y="730" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PJy8uHQHKHchKXXyAfgP-31" value="memunculkan peringatan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PJy8uHQHKHchKXXyAfgP-9">
-          <mxGeometry x="-10" y="470" width="160" height="30" as="geometry" />
+          <mxGeometry x="70" y="450" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PJy8uHQHKHchKXXyAfgP-32" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PJy8uHQHKHchKXXyAfgP-9">
-          <mxGeometry x="110" y="539" width="40" height="30" as="geometry" />
+          <mxGeometry x="150" y="535" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PJy8uHQHKHchKXXyAfgP-33" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PJy8uHQHKHchKXXyAfgP-9">
-          <mxGeometry x="190" y="480" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PJy8uHQHKHchKXXyAfgP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJy8uHQHKHchKXXyAfgP-4" target="PJy8uHQHKHchKXXyAfgP-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="240" y="350" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="190" y="509" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PJy8uHQHKHchKXXyAfgP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJy8uHQHKHchKXXyAfgP-10" target="PJy8uHQHKHchKXXyAfgP-5">
           <mxGeometry relative="1" as="geometry">
@@ -71,13 +64,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PJy8uHQHKHchKXXyAfgP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJy8uHQHKHchKXXyAfgP-5" target="PJy8uHQHKHchKXXyAfgP-15">
+        <mxCell id="PJy8uHQHKHchKXXyAfgP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJy8uHQHKHchKXXyAfgP-5" target="PJy8uHQHKHchKXXyAfgP-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="488" />
-              <mxPoint x="530" y="488" />
+              <mxPoint x="230" y="568" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PJy8uHQHKHchKXXyAfgP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJy8uHQHKHchKXXyAfgP-4" target="PJy8uHQHKHchKXXyAfgP-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
