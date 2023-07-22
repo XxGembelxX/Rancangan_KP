@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T13:59:44.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="n_ok4zAVJM4P8BnGb8CM" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T14:35:02.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="ZVslelVLWP4XZQvIfgNX" version="21.6.5" type="github">
   <diagram name="Halaman-1" id="kbdxLqfRNy0qhNYf5sBI">
-    <mxGraphModel dx="1154" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="MpRBaYKJ1gHouZbIiYSQ-37" value="&lt;font face=&quot;Times New Roman&quot;&gt;Memunculkan halaman data siswa&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="MpRBaYKJ1gHouZbIiYSQ-36">
           <mxGeometry x="80" y="270" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MpRBaYKJ1gHouZbIiYSQ-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;Memunculkan halaman Form tambah data siswa beserta data yang sudah ada sebelumnya&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="MpRBaYKJ1gHouZbIiYSQ-36">
+        <mxCell id="MpRBaYKJ1gHouZbIiYSQ-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;Memunculkan halaman form edit data siswa beserta data yang sudah ada sebelumnya&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="MpRBaYKJ1gHouZbIiYSQ-36">
           <mxGeometry x="80" y="400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MpRBaYKJ1gHouZbIiYSQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MpRBaYKJ1gHouZbIiYSQ-36" source="MpRBaYKJ1gHouZbIiYSQ-40" target="MpRBaYKJ1gHouZbIiYSQ-42">
