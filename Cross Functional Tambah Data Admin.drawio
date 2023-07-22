@@ -1,9 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T14:54:19.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" version="21.6.5" etag="GWXUgwLoHicHD8rViNK_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T14:56:12.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="s98VYDEnSZNYwXStiTt1" version="21.6.5" type="github">
   <diagram name="Halaman-1" id="7UHIuaPHHp54YdtMl_WJ">
-    <mxGraphModel>
+    <mxGraphModel dx="797" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-1" value="Aktor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="250" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="L94Z8kq-TWkqiThxzXYF-1" source="L94Z8kq-TWkqiThxzXYF-3" target="L94Z8kq-TWkqiThxzXYF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-1">
+          <mxGeometry x="112.5" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-4" value="Klik Data Admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-1">
+          <mxGeometry x="40" y="140" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-5" value="Klik Tambah Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-1">
+          <mxGeometry x="40" y="220" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-6" value="Simpa Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-1">
+          <mxGeometry x="50" y="400" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="L94Z8kq-TWkqiThxzXYF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="160" as="sourcePoint" />
+            <mxPoint x="215" y="232.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="L94Z8kq-TWkqiThxzXYF-1" source="L94Z8kq-TWkqiThxzXYF-9" target="L94Z8kq-TWkqiThxzXYF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-9" value="Mengisi Form yang Perlu di Edit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-1">
+          <mxGeometry x="50" y="340" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-10" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="80" width="220" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-11" value="Menampilkan Data Admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-10">
+          <mxGeometry x="22.5" y="140" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-12" value="Menampilkan Form Tambah Data Admin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-10">
+          <mxGeometry x="30" y="280" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="L94Z8kq-TWkqiThxzXYF-10" source="L94Z8kq-TWkqiThxzXYF-14" target="L94Z8kq-TWkqiThxzXYF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-14" value="Memeriksa Kesesuaian Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-10">
+          <mxGeometry x="30" y="400" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L94Z8kq-TWkqiThxzXYF-10" source="L94Z8kq-TWkqiThxzXYF-16" target="L94Z8kq-TWkqiThxzXYF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-10">
+          <mxGeometry x="97.5" y="470" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="L94Z8kq-TWkqiThxzXYF-10" source="L94Z8kq-TWkqiThxzXYF-18" target="L94Z8kq-TWkqiThxzXYF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-18" value="Menyimpan Data ke Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-10">
+          <mxGeometry x="30" y="540" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-19" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-10">
+          <mxGeometry x="102.5" y="610" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-20" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-10">
+          <mxGeometry x="72.5" y="500" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-21" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-10">
+          <mxGeometry x="42.5" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-22" value="Sesuai?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="L94Z8kq-TWkqiThxzXYF-10">
+          <mxGeometry x="127.5" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L94Z8kq-TWkqiThxzXYF-4" target="L94Z8kq-TWkqiThxzXYF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L94Z8kq-TWkqiThxzXYF-5" target="L94Z8kq-TWkqiThxzXYF-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L94Z8kq-TWkqiThxzXYF-16" target="L94Z8kq-TWkqiThxzXYF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L94Z8kq-TWkqiThxzXYF-6" target="L94Z8kq-TWkqiThxzXYF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L94Z8kq-TWkqiThxzXYF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L94Z8kq-TWkqiThxzXYF-12" target="L94Z8kq-TWkqiThxzXYF-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
