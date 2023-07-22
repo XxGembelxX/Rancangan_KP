@@ -1,9 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T17:01:58.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" version="21.6.5" etag="a8kwVV-VNNgtOJjFGuI0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T17:03:28.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="7hGckaUsVSReCedP8INe" version="21.6.5" type="github">
   <diagram name="Halaman-1" id="T8Imd4oGdBzQqa7fSYgq">
-    <mxGraphModel>
+    <mxGraphModel dx="797" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SFivbBBPAxUatTomFnrl-1" value="Aktor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="250" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SFivbBBPAxUatTomFnrl-1" source="SFivbBBPAxUatTomFnrl-3" target="SFivbBBPAxUatTomFnrl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="SFivbBBPAxUatTomFnrl-1">
+          <mxGeometry x="112.5" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-4" value="Klik Data Siswa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SFivbBBPAxUatTomFnrl-1">
+          <mxGeometry x="40" y="140" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-5" value="Pilih Kelas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SFivbBBPAxUatTomFnrl-1">
+          <mxGeometry x="40" y="220" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="SFivbBBPAxUatTomFnrl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="160" as="sourcePoint" />
+            <mxPoint x="215" y="232.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-8" value="Klik Cetak Kartu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SFivbBBPAxUatTomFnrl-1">
+          <mxGeometry x="36" y="390" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-9" value="Klik Tombol Save" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SFivbBBPAxUatTomFnrl-1">
+          <mxGeometry x="36" y="505" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SFivbBBPAxUatTomFnrl-1" source="SFivbBBPAxUatTomFnrl-11" target="SFivbBBPAxUatTomFnrl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-11" value="Mencetak Kartu Pelajar Dalam Bentuk PDF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SFivbBBPAxUatTomFnrl-1">
+          <mxGeometry x="36" y="635" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-12" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="SFivbBBPAxUatTomFnrl-1">
+          <mxGeometry x="108.5" y="725" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-13" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="80" width="220" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-14" value="Menampilkan Kelas-Kelas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SFivbBBPAxUatTomFnrl-13">
+          <mxGeometry x="22.5" y="140" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-15" value="Menampilkan Data Siswa dari Kelas yang Dipilih" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SFivbBBPAxUatTomFnrl-13">
+          <mxGeometry x="26.5" y="300" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-17" value="Menampilkan Preview dari Kartu yang Akan Dicetak" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SFivbBBPAxUatTomFnrl-13">
+          <mxGeometry x="22.5" y="455" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-18" value="Mengunduh Kartu Pelajar Dalam Bentuk PDF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SFivbBBPAxUatTomFnrl-13">
+          <mxGeometry x="22.5" y="565" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFivbBBPAxUatTomFnrl-4" target="SFivbBBPAxUatTomFnrl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SFivbBBPAxUatTomFnrl-5" target="SFivbBBPAxUatTomFnrl-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFivbBBPAxUatTomFnrl-17" target="SFivbBBPAxUatTomFnrl-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="536" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFivbBBPAxUatTomFnrl-8" target="SFivbBBPAxUatTomFnrl-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="296" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFivbBBPAxUatTomFnrl-9" target="SFivbBBPAxUatTomFnrl-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="306" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFivbBBPAxUatTomFnrl-18" target="SFivbBBPAxUatTomFnrl-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="526" y="723" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFivbBBPAxUatTomFnrl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFivbBBPAxUatTomFnrl-15" target="SFivbBBPAxUatTomFnrl-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
