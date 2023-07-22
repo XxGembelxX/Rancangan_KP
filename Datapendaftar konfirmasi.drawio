@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T14:49:46.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="rlMW-0DFvFNW3trBSggR" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T14:54:12.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="6AwGOqkfShGtv6XPpLBE" version="21.6.5" type="github">
   <diagram name="Halaman-1" id="mmzkrZ3bWaOufJRhY-9n">
     <mxGraphModel dx="1154" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="neQgJpMcW6tfKHsPSCcL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="neQgJpMcW6tfKHsPSCcL-1" source="neQgJpMcW6tfKHsPSCcL-5" target="neQgJpMcW6tfKHsPSCcL-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="neQgJpMcW6tfKHsPSCcL-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mengisi form penerimaan di kelas&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="neQgJpMcW6tfKHsPSCcL-1">
+        <mxCell id="neQgJpMcW6tfKHsPSCcL-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Memilih diterima di kelas&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="neQgJpMcW6tfKHsPSCcL-1">
           <mxGeometry x="80" y="340" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="neQgJpMcW6tfKHsPSCcL-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;Memilih aksi detail&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="neQgJpMcW6tfKHsPSCcL-1">
