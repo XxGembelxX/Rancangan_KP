@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T16:22:47.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="NmOdzDWmgDI2p9dvdQDn" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T16:51:16.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="dkrfCt9YOGxqv4z11qkw" version="21.6.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="797" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,23 +13,19 @@
         <mxCell id="cC13-fIKpiWIBRgdsOLP-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-1">
           <mxGeometry x="112.5" y="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-4" value="Klik Data Siswa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-1">
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-4" value="Klik Data Pendaftar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-1">
           <mxGeometry x="40" y="140" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-5" value="Pilih Kelas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-1">
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-5" value="Pilih Tambah Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-1">
           <mxGeometry x="40" y="220" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-1" source="cC13-fIKpiWIBRgdsOLP-7" target="cC13-fIKpiWIBRgdsOLP-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-7" value="Memilih Kelas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-1">
-          <mxGeometry x="37.5" y="370" width="175" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-8" value="Memilih Tambah Data&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-1">
-          <mxGeometry x="37.5" y="440" width="175" height="30" as="geometry" />
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-1" source="cC13-fIKpiWIBRgdsOLP-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-9" value="Menekan Tombol Simpan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-1">
-          <mxGeometry x="40" y="560" width="175" height="30" as="geometry" />
+          <mxGeometry x="44" y="440" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-1">
           <mxGeometry relative="1" as="geometry">
@@ -40,62 +36,59 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-1" source="cC13-fIKpiWIBRgdsOLP-12" target="cC13-fIKpiWIBRgdsOLP-9">
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-1" source="cC13-fIKpiWIBRgdsOLP-12" target="cC13-fIKpiWIBRgdsOLP-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-12" value="Mengisi Formulir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-1">
-          <mxGeometry x="40" y="500" width="175" height="30" as="geometry" />
+          <mxGeometry x="44" y="380" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-1" source="cC13-fIKpiWIBRgdsOLP-31" target="cC13-fIKpiWIBRgdsOLP-19">
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-55" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-1" source="cC13-fIKpiWIBRgdsOLP-31" target="cC13-fIKpiWIBRgdsOLP-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-31" value="Memberikan File Formulir&amp;nbsp;&lt;br&gt;&amp;nbsp;PDF ke Pendaftar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-1">
-          <mxGeometry x="40" y="800" width="175" height="30" as="geometry" />
+          <mxGeometry x="44" y="680" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-19" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-1">
-          <mxGeometry x="112.5" y="900" width="30" height="30" as="geometry" />
+          <mxGeometry x="116.5" y="780" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-13" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="80" width="220" height="970" as="geometry" />
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-14" value="Menampilkan Kelas-Kelas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-14" value="Menampilkan Data-Data Pendaftar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
           <mxGeometry x="22.5" y="140" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-15" value="Menampilkan Pilihan Kelas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-15" value="Menampilkan Formulir Pendaftaran Siswa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
           <mxGeometry x="26.5" y="300" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-16" value="Menampilkan Formulir Pendaftaran Siswa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
-          <mxGeometry x="20" y="440" width="175" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-13" source="cC13-fIKpiWIBRgdsOLP-18" target="cC13-fIKpiWIBRgdsOLP-26">
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-13" source="cC13-fIKpiWIBRgdsOLP-18" target="cC13-fIKpiWIBRgdsOLP-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-18" value="Memeriksa Kesesuaian Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
-          <mxGeometry x="22.5" y="560" width="175" height="30" as="geometry" />
+          <mxGeometry x="26.5" y="440" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-13" source="cC13-fIKpiWIBRgdsOLP-26" target="cC13-fIKpiWIBRgdsOLP-30">
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-52" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-13" source="cC13-fIKpiWIBRgdsOLP-26" target="cC13-fIKpiWIBRgdsOLP-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
-          <mxGeometry x="87.5" y="630" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-28" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
-          <mxGeometry x="70" y="670" width="40" height="30" as="geometry" />
+          <mxGeometry x="94" y="510" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-27" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
-          <mxGeometry x="40" y="620" width="40" height="30" as="geometry" />
+          <mxGeometry x="44" y="500" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-29" value="Sesuai?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
-          <mxGeometry x="125" y="620" width="70" height="30" as="geometry" />
+          <mxGeometry x="129" y="500" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-13" source="cC13-fIKpiWIBRgdsOLP-30" target="cC13-fIKpiWIBRgdsOLP-37">
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-53" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="cC13-fIKpiWIBRgdsOLP-13" source="cC13-fIKpiWIBRgdsOLP-30" target="cC13-fIKpiWIBRgdsOLP-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-30" value="Menyimpan Data Formulir ke Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
-          <mxGeometry x="20" y="740" width="175" height="30" as="geometry" />
+          <mxGeometry x="26.5" y="620" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-37" value="Mengunduh File PDF Formulir Pendaftaran" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
-          <mxGeometry x="20" y="800" width="175" height="30" as="geometry" />
+          <mxGeometry x="26.5" y="680" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-45" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cC13-fIKpiWIBRgdsOLP-13">
+          <mxGeometry x="60" y="550" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cC13-fIKpiWIBRgdsOLP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC13-fIKpiWIBRgdsOLP-4" target="cC13-fIKpiWIBRgdsOLP-14">
           <mxGeometry relative="1" as="geometry" />
@@ -107,30 +100,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cC13-fIKpiWIBRgdsOLP-15" target="cC13-fIKpiWIBRgdsOLP-7">
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.986;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="cC13-fIKpiWIBRgdsOLP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC13-fIKpiWIBRgdsOLP-15" target="cC13-fIKpiWIBRgdsOLP-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="544" y="465" />
+              <mxPoint x="540" y="475" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.986;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="cC13-fIKpiWIBRgdsOLP-8" target="cC13-fIKpiWIBRgdsOLP-16">
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cC13-fIKpiWIBRgdsOLP-9" target="cC13-fIKpiWIBRgdsOLP-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC13-fIKpiWIBRgdsOLP-16" target="cC13-fIKpiWIBRgdsOLP-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="595" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cC13-fIKpiWIBRgdsOLP-9" target="cC13-fIKpiWIBRgdsOLP-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC13-fIKpiWIBRgdsOLP-26" target="cC13-fIKpiWIBRgdsOLP-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cC13-fIKpiWIBRgdsOLP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC13-fIKpiWIBRgdsOLP-37" target="cC13-fIKpiWIBRgdsOLP-31">
+        <mxCell id="cC13-fIKpiWIBRgdsOLP-54" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="cC13-fIKpiWIBRgdsOLP-37" target="cC13-fIKpiWIBRgdsOLP-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
