@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T14:45:48.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="JrRija7mHE4fT9taZLTP" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T16:51:29.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="8n4v8AQWB4bPo8jgKxjN" version="21.6.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="839" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v3ZjU44f4ItKbDlVjQA1-1" value="Aktor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="80" width="250" height="900" as="geometry" />
+          <mxGeometry x="180" y="80" width="250" height="850" as="geometry" />
         </mxCell>
         <mxCell id="v3ZjU44f4ItKbDlVjQA1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v3ZjU44f4ItKbDlVjQA1-1" source="v3ZjU44f4ItKbDlVjQA1-3" target="v3ZjU44f4ItKbDlVjQA1-21">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="40" y="500" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v3ZjU44f4ItKbDlVjQA1-2" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="80" width="220" height="900" as="geometry" />
+          <mxGeometry x="430" y="80" width="220" height="850" as="geometry" />
         </mxCell>
         <mxCell id="v3ZjU44f4ItKbDlVjQA1-23" value="Menampilkan Kelas-Kelas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3ZjU44f4ItKbDlVjQA1-2">
           <mxGeometry x="22.5" y="140" width="175" height="30" as="geometry" />
@@ -74,10 +74,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v3ZjU44f4ItKbDlVjQA1-53" value="Menyimpan Data ke Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v3ZjU44f4ItKbDlVjQA1-2">
-          <mxGeometry x="20" y="740" width="175" height="30" as="geometry" />
+          <mxGeometry x="20" y="710" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v3ZjU44f4ItKbDlVjQA1-30" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="v3ZjU44f4ItKbDlVjQA1-2">
-          <mxGeometry x="92.5" y="810" width="30" height="30" as="geometry" />
+          <mxGeometry x="92.5" y="780" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v3ZjU44f4ItKbDlVjQA1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v3ZjU44f4ItKbDlVjQA1-21" target="v3ZjU44f4ItKbDlVjQA1-23">
           <mxGeometry relative="1" as="geometry" />
@@ -113,6 +113,15 @@
         </mxCell>
         <mxCell id="v3ZjU44f4ItKbDlVjQA1-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v3ZjU44f4ItKbDlVjQA1-52" target="v3ZjU44f4ItKbDlVjQA1-44">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v3ZjU44f4ItKbDlVjQA1-58" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="750" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v3ZjU44f4ItKbDlVjQA1-59" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="700" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v3ZjU44f4ItKbDlVjQA1-60" value="Sesuai?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="700" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
