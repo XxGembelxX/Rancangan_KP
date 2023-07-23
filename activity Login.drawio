@@ -1,9 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T12:53:55.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" version="21.6.5" etag="dNUOvW1mdixx6dPZTGQI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T13:00:44.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="XApbu_wSJFLnFWsYW9Bg" version="21.6.5" type="github">
   <diagram name="Halaman-1" id="qDCoZ0gxAR9lAThdU5mK">
-    <mxGraphModel>
+    <mxGraphModel dx="2232" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-25" value="Aktor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="300" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ayi7KSCXgqI4JvIZyfvN-25" source="Ayi7KSCXgqI4JvIZyfvN-27" target="Ayi7KSCXgqI4JvIZyfvN-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-27" value="" style="html=1;shape=mxgraph.sysml.actFinal;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;" vertex="1" parent="Ayi7KSCXgqI4JvIZyfvN-25">
+          <mxGeometry x="140" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;Memilih menu login&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="Ayi7KSCXgqI4JvIZyfvN-25">
+          <mxGeometry x="80" y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mengisi email dan password&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="Ayi7KSCXgqI4JvIZyfvN-25">
+          <mxGeometry x="80" y="220" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-33" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="320" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-34" value="&lt;font face=&quot;Times New Roman&quot;&gt;Memunculkan halaman Halaman login admin&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="Ayi7KSCXgqI4JvIZyfvN-33">
+          <mxGeometry x="80" y="145" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ayi7KSCXgqI4JvIZyfvN-33" source="Ayi7KSCXgqI4JvIZyfvN-39" target="Ayi7KSCXgqI4JvIZyfvN-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-39" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Ayi7KSCXgqI4JvIZyfvN-33">
+          <mxGeometry x="130" y="290" width="50" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ayi7KSCXgqI4JvIZyfvN-33" source="Ayi7KSCXgqI4JvIZyfvN-43" target="Ayi7KSCXgqI4JvIZyfvN-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-43" value="&lt;font face=&quot;Times New Roman&quot;&gt;Memunculkan Halaman Admin&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="Ayi7KSCXgqI4JvIZyfvN-33">
+          <mxGeometry x="75" y="400" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-45" value="" style="html=1;shape=mxgraph.sysml.actFinal;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;" vertex="1" parent="Ayi7KSCXgqI4JvIZyfvN-33">
+          <mxGeometry x="135" y="490" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ayi7KSCXgqI4JvIZyfvN-28" target="Ayi7KSCXgqI4JvIZyfvN-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ayi7KSCXgqI4JvIZyfvN-34" target="Ayi7KSCXgqI4JvIZyfvN-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="303" />
+              <mxPoint x="330" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ayi7KSCXgqI4JvIZyfvN-29" target="Ayi7KSCXgqI4JvIZyfvN-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="340" />
+              <mxPoint x="545" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ayi7KSCXgqI4JvIZyfvN-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ayi7KSCXgqI4JvIZyfvN-39" target="Ayi7KSCXgqI4JvIZyfvN-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
