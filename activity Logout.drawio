@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T15:33:04.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" version="21.6.5" etag="9u-aVGevAlTB4XnDjcYY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T15:36:12.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="XgYmkfjR7_J-wdQSuaoU" version="21.6.5" type="github">
   <diagram name="Halaman-1" id="7iFMyliUlLxHi70Rk1Aq">
-    <mxGraphModel>
+    <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QTuXaFvTy9yYzhtKCQhp-1" value="Aktor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="300" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QTuXaFvTy9yYzhtKCQhp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QTuXaFvTy9yYzhtKCQhp-1" source="QTuXaFvTy9yYzhtKCQhp-3" target="QTuXaFvTy9yYzhtKCQhp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTuXaFvTy9yYzhtKCQhp-3" value="" style="html=1;shape=mxgraph.sysml.actFinal;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;" vertex="1" parent="QTuXaFvTy9yYzhtKCQhp-1">
+          <mxGeometry x="140" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QTuXaFvTy9yYzhtKCQhp-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Memilih menu Logout&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="QTuXaFvTy9yYzhtKCQhp-1">
+          <mxGeometry x="80" y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QTuXaFvTy9yYzhtKCQhp-6" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QTuXaFvTy9yYzhtKCQhp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QTuXaFvTy9yYzhtKCQhp-6" source="QTuXaFvTy9yYzhtKCQhp-7" target="QTuXaFvTy9yYzhtKCQhp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTuXaFvTy9yYzhtKCQhp-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Keluar dari sistem&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="QTuXaFvTy9yYzhtKCQhp-6">
+          <mxGeometry x="90" y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QTuXaFvTy9yYzhtKCQhp-12" value="" style="html=1;shape=mxgraph.sysml.actFinal;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;" vertex="1" parent="QTuXaFvTy9yYzhtKCQhp-6">
+          <mxGeometry x="150" y="255" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QTuXaFvTy9yYzhtKCQhp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QTuXaFvTy9yYzhtKCQhp-4" target="QTuXaFvTy9yYzhtKCQhp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
