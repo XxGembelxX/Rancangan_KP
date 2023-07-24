@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T00:06:36.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="vukzRQH2jDi9K4fJ4lWW" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T00:06:54.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="kawGAKrRSRxQYfAz8xA3" version="21.6.5" type="github">
   <diagram name="Halaman-1" id="-97yw2wkRq0q6jk886xI">
     <mxGraphModel dx="1981" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -546,7 +546,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0jTUHeZ85An4QtkaP77h-1" value="status_kelas" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="300" width="180" height="90" as="geometry">
+          <mxGeometry x="-170" y="140" width="180" height="90" as="geometry">
             <mxRectangle x="80" y="20" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -590,7 +590,7 @@
           <mxGeometry x="-320" y="160" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QiYZep03M-YwTwB9HoWS-4" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="320" width="30" height="30" as="geometry" />
+          <mxGeometry x="-200" y="160" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QiYZep03M-YwTwB9HoWS-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;*&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-530" y="130" width="30" height="40" as="geometry" />
